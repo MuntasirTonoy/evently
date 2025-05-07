@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1",
+    "event_name": "Tech Innovators Summit 2023",
+    "thumbnail": "https://i.ibb.co.com/R4tHP534/1678450597-546-E3746-5-DB3-4-CF1-AA17-EE2-E7-A5965-E8.webp",
+    "category": "Technology",
+    "date": "2023-11-15",
+    "location": "Texas Convention Center, Austin",
+    "fee": 299,
+    "capacity": 500,
+    "description": "Join 500+ tech leaders at the annual Tech Innovators Summit for three days of cutting-edge discussions on AI, blockchain, and cloud computing. This premier event features keynote speeches from industry pioneers, hands-on workshops, and unparalleled networking opportunities. Learn how emerging technologies are transforming businesses across sectors. Our expert panels will cover topics from ethical AI implementation to quantum computing breakthroughs. Don't miss the startup pitch competition with $100,000 in prizes. Perfect for CTOs, developers, and tech entrepreneurs looking to stay ahead of the curve in our rapidly evolving digital landscape.",
+    "organizer": "TechFuture Inc.",
+    "starting_time": "08:30",
+    "ending_time": "17:00",
+    "agenda": [
+      "08:30 - Registration & Breakfast",
+      "09:30 - Opening Keynote: Future of AI",
+      "11:00 - Workshop: Blockchain Applications",
+      "12:30 - Networking Lunch",
+      "14:00 - Panel: Ethics in Technology",
+      "15:30 - Startup Pitch Competition",
+      "16:45 - Closing Remarks"
+    ]
+  },
+  {
+    "id": "2",
+    "event_name": "Global Music Festival",
+    "thumbnail": "https://i.ibb.co.com/BVqzvBhS/Imagine-e1616547635623-scaled.jpg",
+    "category": "Music",
+    "date": "2023-08-12",
+    "location": "Central Park, New York",
+    "fee": 89,
+    "capacity": 10000,
+    "description": "Experience the ultimate celebration of global music at our 10th anniversary festival featuring 50+ artists across 5 stages. From jazz to EDM, world music to indie rock, this three-day open-air event showcases diverse musical traditions and emerging talents. The festival includes food trucks representing global cuisines, artisan markets, and interactive music workshops. Special attractions include a silent disco area and family-friendly performances during daylight hours. Past performers have included Grammy winners and viral sensations. Come enjoy unforgettable performances under the stars in one of the world's most iconic parks.",
+    "organizer": "Harmony Productions",
+    "starting_time": "14:00",
+    "ending_time": "23:00",
+    "agenda": [
+      "14:00 - Gates Open",
+      "15:00 - Local Artist Showcase",
+      "17:30 - Headliner Performance",
+      "19:00 - World Music Ensemble",
+      "20:30 - Electronic Dance Show",
+      "22:45 - Closing Fireworks"
+    ]
+  },
+  {
+    "id": "3",
+    "event_name": "Sustainable Business Conference",
+    "thumbnail": "https://i.ibb.co.com/gMXL9zJR/hljctm2n16957-cisbc-colour-rgb-logo-june-2024-crop-1500w-900h.jpg",
+    "category": "Business",
+    "date": "2023-09-28",
+    "location": "London Excel Center",
+    "fee": 199,
+    "capacity": 300,
+    "description": "This comprehensive conference brings together sustainability leaders from Fortune 500 companies and innovative startups to share strategies for environmentally responsible business growth. Over two days, attendees will learn about circular economy models, carbon footprint reduction, and sustainable supply chain management. The event features case studies from companies that successfully implemented green initiatives while improving profitability. Interactive sessions include calculating your company's sustainability score and designing eco-friendly packaging. Perfect for executives, entrepreneurs, and sustainability officers committed to making a positive environmental impact through business practices.",
+    "organizer": "Green Future Forum",
+    "starting_time": "09:00",
+    "ending_time": "16:30",
+    "agenda": [
+      "09:00 - Registration & Coffee",
+      "09:30 - Keynote: Green Business Models",
+      "11:00 - Workshop: Carbon Accounting",
+      "12:30 - Organic Lunch Buffet",
+      "14:00 - Case Study Presentations",
+      "15:30 - Networking Session",
+      "16:15 - Closing Panel Discussion"
+    ]
+  },
+  {
+    "id": "4",
+    "event_name": "Ultra Marathon Challenge",
+    "thumbnail": "https://i.ibb.co.com/dsCw2VC7/db0d5fc0-0681-11f0-94d4-6f954f5dcfa3.jpg",
+    "category": "Sports",
+    "date": "2023-10-07",
+    "location": "Rocky Mountain Trails",
+    "fee": 150,
+    "capacity": 200,
+    "description": "Test your endurance in this breathtaking 50-mile ultra marathon through challenging mountain terrain with 8,000 feet of elevation gain. The course takes runners through alpine meadows, forest trails, and mountain passes with spectacular views. Fully supported with 6 aid stations offering medical support, nutrition, and hydration. Participants receive GPS tracking, finisher medals, and post-race meals. Training clinics available in the months leading up to the event. This USATF-certified course attracts elite runners while remaining accessible to dedicated amateurs. Must provide proof of recent marathon completion to register. Experience the ultimate test of physical and mental endurance!",
+    "organizer": "Peak Performance Racing",
+    "starting_time": "06:00",
+    "ending_time": "20:00",
+    "agenda": [
+      "04:30 - Check-in Opens",
+      "05:30 - Mandatory Safety Briefing",
+      "06:00 - Race Start",
+      "09:00 - First Cutoff Point",
+      "12:00 - Midpoint Lunch Station",
+      "15:00 - Final Cutoff Point",
+      "19:00 - Awards Ceremony"
+    ]
+  },
+  {
+    "id": "5",
+    "event_name": "International Food Festival",
+    "thumbnail": "https://i.ibb.co.com/YTd5h1Zr/Food-Festival-Wallpaper.jpg",
+    "category": "Food",
+    "date": "2023-07-22",
+    "location": "Waterfront Plaza, Chicago",
+    "fee": 25,
+    "capacity": 5000,
+    "description": "Embark on a culinary journey around the world at our 15th annual International Food Festival featuring 50+ vendors representing 30 countries. Sample authentic dishes from street food to gourmet creations, all prepared by native chefs. Cooking demonstrations occur hourly on the main stage, where Michelin-starred chefs share their techniques. Special features include a chili pepper eating contest, mixology classes, and a kids' cooking corner. New this year: vegan world cuisine pavilion and zero-waste initiatives. Proceeds benefit local food banks. Come hungry and leave with new favorite flavors and cooking inspiration!",
+    "organizer": "Global Eats Network",
+    "starting_time": "11:00",
+    "ending_time": "21:00",
+    "agenda": [
+      "11:00 - Festival Opens",
+      "12:00 - Italian Cooking Demo",
+      "14:00 - Asian Street Food Tour",
+      "16:00 - Chili Eating Contest",
+      "18:00 - Mixology Workshop",
+      "20:00 - Best Booth Awards",
+      "21:00 - Festival Closes"
+    ]
+  },
+  {
+    "id": "6",
+    "event_name": "Digital Art Exhibition",
+    "thumbnail": "https://i.ibb.co.com/SDV5RdHS/777324270-0ec82f608afcf06a78db9a3dcd008428b812a3442b97f6d75fe3c8a430a0adce-d.webp",
+    "category": "Art",
+    "date": "2023-12-05",
+    "location": "Modern Art Museum",
+    "fee": 35,
+    "capacity": 150,
+    "description": "Explore the cutting edge of digital creativity at this month-long exhibition featuring immersive installations, generative art, and virtual reality experiences from 25 international artists. The show includes interactive pieces that respond to visitor movements, AI-generated portraits, and large-scale digital projections transforming museum walls. Special events include artist talks, live coding performances, and workshops on digital art tools. This groundbreaking exhibition challenges traditional notions of art-making while showcasing how technology enables new forms of creative expression. Limited-capacity timed tickets ensure optimal viewing experiences for all visitors.",
+    "organizer": "Contemporary Digital Arts Foundation",
+    "starting_time": "10:00",
+    "ending_time": "18:00",
+    "agenda": [
+      "10:00 - Exhibition Opens",
+      "11:30 - Artist Talk: VR Installations",
+      "13:00 - Live Coding Performance",
+      "15:00 - Digital Art Workshop",
+      "17:00 - Curator Tour",
+      "18:00 - Exhibition Closes"
+    ]
+  }
+]
